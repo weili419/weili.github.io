@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>李卫的博客</title>
+  
+  <subtitle>李卫的博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://example.com/"/>
+  <updated>2023-02-26T07:32:01.613Z</updated>
+  <id>https://example.com/</id>
+  
+  <author>
+    <name>李卫</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://example.com/2023/02/26/hello-world/"/>
+    <id>https://example.com/2023/02/26/hello-world/</id>
+    <published>2023-02-26T07:32:01.613Z</published>
+    <updated>2023-02-26T07:32:01.613Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>博客开源</title>
+    <link href="https://example.com/2019/08/27/blog-open-source/"/>
+    <id>https://example.com/2019/08/27/blog-open-source/</id>
+    <published>2019-08-27T03:41:03.000Z</published>
+    <updated>2023-02-27T10:04:35.838Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+      <category term="软件安装与配置" scheme="https://example.com/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
+    
+    
+      <category term="Hexo" scheme="https://example.com/tags/Hexo/"/>
+    
+      <category term="Github" scheme="https://example.com/tags/Github/"/>
+    
+      <category term="博客" scheme="https://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
